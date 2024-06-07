@@ -43,3 +43,11 @@
 //     return 0;
 // }
 
+#include <stdio.h>
+int main() {
+ char word[4] = "fun";
+ printf("The word is: %s.\n", word);//只有三个数字
+ word[1] = 'a';
+ printf("The word now is: %s.\n", word);
+ return 0;
+}
