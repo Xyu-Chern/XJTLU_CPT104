@@ -12,6 +12,6 @@
 - `Operating_System.doc` : Summary of class content.
 - `Lecture` : Class materials withe right content.
 ## Study experience
-This is the most useless course I've ever taken. I don't know what they were doing. There was no coding, and the final exam was just about reproducing calculations from the tutorial.
+- This is the most useless course I've ever taken. I don't know what they were doing. There was no coding, and the final exam was just about reproducing calculations from the tutorial.
 ----
 
