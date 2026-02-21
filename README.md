@@ -8,7 +8,7 @@
 - `Final`: Previous test paper.
 - `Lab`: Useless materials.
 - `Module Handbook.pdf` : This is a pdf that tell you some basic information about this lesson.
-- `Texbook` : The foler contains the textbook that ypu may need. 
+- `Texbook` : The foldder contains the textbook that ypu may need. 
 - `Operating_System.doc` : Summary of class content.
 - `Lecture` : Class materials withe right oreder.
 ## Study experience
